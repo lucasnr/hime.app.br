@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+  outline: none;
+}
+
+body {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  font-family: 'Poppins', sans-serif;
+  justify-content: center;
+  margin: 0px;
+  min-height: 100vh;
+}
+
+h1 {
+  color: #3f3d56;
+  font-size: 1.25rem;
+  font-weight: 900;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+img {
+  height: 5.375rem;
+  width: 7.875rem;
+}
